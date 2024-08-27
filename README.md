@@ -20,8 +20,8 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/Priteshverma123/DYNAMIC-CHAT-WITH-WEBSITE.git
+    cd DYNAMIC-CHAT-WITH-WEBSITE
     ```
 
 2. **Create a `.env` File:**
