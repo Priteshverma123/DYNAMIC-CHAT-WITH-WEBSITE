@@ -1,6 +1,4 @@
-Here's a sample README for your GitHub repository:
 
----
 
 # Dynamic Website Chatting with LangChain
 
@@ -56,6 +54,4 @@ Follow these steps to set up the project locally:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can customize this README further based on specific details of your project!
